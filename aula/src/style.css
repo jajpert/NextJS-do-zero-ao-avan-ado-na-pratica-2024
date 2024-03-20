@@ -23,7 +23,7 @@ header{
     color: #fff;
 }
 
-.posts{
+.post{
     display: flex;
     flex-direction: column;
     justify-content: center;
