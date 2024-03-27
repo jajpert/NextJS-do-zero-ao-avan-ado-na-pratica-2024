@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.30",
+    "@types/prismic-dom": "^2.1.4",
     "@types/react": "^18.2.70",
     "@types/react-dom": "^18",
     "typescript": "^5"
